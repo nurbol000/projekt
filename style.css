@@ -1,0 +1,327 @@
+body{
+    background-color: aliceblue;
+    width: 100%;
+}
+.header{
+    display: flex;
+}
+.h1{
+    display: flex;
+    padding-left: 104px;
+    padding-top: 18px;
+    gap: 36px;
+}
+.ol{
+    align-items: center;
+}
+ul{
+    display: flex;
+    padding-left: 718px;
+    gap: 50px;
+    padding-top: 41px;
+}
+button{
+    display: flex;
+width: 200px;
+height: 60px;
+padding: 18px 44px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+flex-shrink: 0;
+color: #FBFBFD;
+border-radius: 30px;
+background: #4061F8;
+}
+
+.port{
+color: #4061F8;
+}
+
+.fui{
+    padding-top: 174px;
+    padding-left: 197px;
+}
+
+.bd{
+    display: flex;
+}
+
+
+.hjk{
+    color: #7ECAA6, #61BDD1, #CF6DDD, #4061F8;
+    color: var(--Deep-Black, #151516);
+font-family: Halvar Mittelschrift CY;
+font-size: 82px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+background: linear-gradient(129deg, #7ECAA6 29.43%, #61BDD1 48.17%, #CF6DDD 63.17%, #4061F8 75.98%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Halvar Mittelschrift CY;
+font-size: 82px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.tre{
+    color: #151516;
+font-family: Halvar Mittelschrift CY;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 38px; /* 190% */
+}
+.bot{
+    padding-top: 35px;
+    padding-left: 321px;
+}
+
+.cs{
+    display: flex;
+    padding-left: 367px;
+    padding-top: 95px;
+    gap: 100px;
+}
+.key{
+    color: #9A52FD;
+font-family: Halvar Mittelschrift CY;
+font-size: 22px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.p{
+    color:#151516 ;
+font-family: Halvar Mittelschrift CY;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.sec__1{
+    padding-left: 200px;
+    padding-top:162px;
+}
+.sec__2{
+    padding-left: 327px;
+    padding-top:150px;   
+}
+.sec__3{
+    padding-left: 201px;
+    padding-top:150px;    
+}
+
+.wq{
+    color: var(--Deep-Black, #151516);
+font-family: Halvar Mittelschrift CY;
+font-size: 82px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.sec__4{
+    padding-left: 325px;
+    padding-top:150px;  
+}
+
+.tro{
+    padding-top: 100px;
+
+}
+
+.sec__5{
+    padding-left: 322px;
+    padding-top:150px;  
+}
+
+.lo{
+    color: var(--Deep-Black, #151516);
+font-family: Halvar Mittelschrift CY;
+font-size: 82px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.sec__6{
+    padding-left: 324px;
+    padding-top:154px;  
+}
+.ml{
+    color: var(--Deep-Black, #151516);
+font-family: Halvar Mittelschrift CY;
+font-size: 26px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px; /* 115.385% */
+padding-top:100px;
+}
+
+.vfg{
+    width: 400px;
+height: 300px;
+flex-shrink: 0;
+border-radius: 60px;
+background: #D2F4E4;
+}
+
+.gh{
+    display: flex;
+    gap: 30px;
+    padding-top: 50px;
+    
+}
+
+.vfg{
+
+}
+
+.fg{
+    color: var(--Deep-Black, #151516);
+font-family: Halvar Mittelschrift CY;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-left: 50px;
+padding-top:55px;  
+}
+
+.io{
+    color: var(--Deep-Black, #151516);
+font-family: Halvar Mittelschrift CY;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-left: 50px;
+padding-top:87px;  
+}
+
+.df{
+    color: var(--Contrast-Gray, #BDBFC8);
+font-family: Halvar Mittelschrift CY;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-left: 50px;
+padding-top:8px;
+}
+
+/* sjidisj */
+
+.vf{
+    width: 400px;
+height: 300px;
+flex-shrink: 0;
+background-color: #F5EEEE;
+border-radius: 60px;
+background: #F5EEEE;
+}
+
+.g{
+    width: 400px;
+    height: 300px;
+    flex-shrink: 0;
+    background-color: #EEF7D1;
+    border-radius: 60px;
+
+}
+
+.nb{
+    color: var(--Deep-Black, #151516);
+font-family: Halvar Mittelschrift CY;
+font-size: 26px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px; /* 115.385% */
+padding-top: 70px;
+/* padding-left: 326px; */
+}
+
+.tri{
+    display: flex;
+    padding-top: 50px;
+    gap: 30px;
+}
+
+.sec__7{
+    padding-top: 260px;
+    padding-left:199px ;   
+}
+.xvcbgv{
+    width: 1520px;
+height: 600px;
+flex-shrink: 0;
+border-radius: 80px;
+background: #EAF0F6;
+/* padding-top: 260px;
+padding-left:199px ; */
+}
+
+.vbn{
+    color: #151516;
+font-family: Halvar Mittelschrift CY;
+font-size: 52px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+.mnb{
+    color: #202020;
+font-family: Halvar Mittelschrift CY;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: 110%; /* 24.2px */
+}
+
+.nmb{
+
+    color: #202020;
+font-family: Halvar Mittelschrift CY;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: 110%; /* 24.2px */
+}
+
+.oi{
+    color: #202020;
+font-family: Halvar Mittelschrift CY;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 110%; /* 19.8px */
+display: flex;
+}
+
+.rt{
+    display: flex;
+}
+
+.fe{
+    color: #202020;
+font-family: Halvar Mittelschrift CY;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 140%; /* 28px */
+}
+
+.fr{
+    color: #202020;
+font-family: Halvar Mittelschrift CY;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 25px; /* 156.25% */
+}
+
